@@ -5,13 +5,57 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Zap Learning Team Calendar
 BEGIN:VEVENT
+UID:apei-planning-session-20260929@buzzy.thelab
+DTSTAMP:20260925T203116Z
+DTSTART:20260929T200000Z
+DTEND:20260929T210000Z
+SUMMARY:APEI Planning Session
+DESCRIPTION:Reported by Ahmed as 'next week'. Duration assumed 1 hour (end
+  time not specified). [reported by Ahmed]
+END:VEVENT
+BEGIN:VEVENT
 UID:buzzy-feed-online-20260925@buzzy.thelab
-DTSTAMP:20260925T202531Z
+DTSTAMP:20260925T203116Z
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
 SUMMARY:Buzzy team calendar feed goes online
 DESCRIPTION:First event on the shared Zap Learning calendar feed. Filed by
   Dexter as the pipeline smoke test\; Buzzy maintains from here. [reported
   by Ahmed (via Dexter build)]
+END:VEVENT
+BEGIN:VEVENT
+UID:pitch-gregorio-company-20260930@buzzy.thelab
+DTSTAMP:20260925T203116Z
+DTSTART:20260930T183000Z
+DTEND:20260930T190000Z
+SUMMARY:Pitch Gregorio Company
+DESCRIPTION:Reported by Ahmed as 'next week'. Duration assumed 30 min (end
+  time not specified). [reported by Ahmed]
+END:VEVENT
+BEGIN:VEVENT
+UID:vyond-chat-cto-20260928@buzzy.thelab
+DTSTAMP:20260925T203116Z
+DTSTART:20260929T010000Z
+DTEND:20260929T013000Z
+SUMMARY:Vyond Chat with CTO
+DESCRIPTION:Reported by Ahmed as 'next week'. Duration assumed 30 min (end
+  time not specified). [reported by Ahmed]
+END:VEVENT
+BEGIN:VEVENT
+UID:agent-zen-session-20261001@buzzy.thelab
+DTSTAMP:20260925T203116Z
+DTSTART:20261001T223000Z
+DTEND:20261001T233000Z
+SUMMARY:Agent Zen Session
+DESCRIPTION:Reported by Ahmed as 'next week'. Duration assumed 1 hour (end
+  time not specified). [reported by Ahmed]
+END:VEVENT
+BEGIN:VEVENT
+UID:core-club-session-20261002@buzzy.thelab
+DTSTAMP:20260925T203116Z
+DTSTART:20261002T150000Z
+DTEND:20261002T180000Z
+SUMMARY:Core Club Session
+DESCRIPTION:Reported by Ahmed as 'next week'. [reported by Ahmed]
 END:VEVENT
 END:VCALENDAR

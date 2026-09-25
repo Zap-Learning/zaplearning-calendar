@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//TheLab//Buzzy Zap Learning Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Zap Learning Team Calendar
+BEGIN:VEVENT
+UID:buzzy-feed-online-20260925@buzzy.thelab
+DTSTAMP:20260925T202531Z
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+SUMMARY:Buzzy team calendar feed goes online
+DESCRIPTION:First event on the shared Zap Learning calendar feed. Filed by
+  Dexter as the pipeline smoke test\; Buzzy maintains from here. [reported
+  by Ahmed (via Dexter build)]
+END:VEVENT
+END:VCALENDAR
